@@ -1,0 +1,3 @@
+name: RightWrist
+class: Motor6D
+children: 0

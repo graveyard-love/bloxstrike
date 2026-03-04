@@ -1,0 +1,3 @@
+name: Meshes/cube
+class: MeshPart
+children: 1

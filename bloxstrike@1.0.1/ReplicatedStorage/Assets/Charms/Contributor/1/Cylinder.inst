@@ -1,0 +1,3 @@
+name: Cylinder
+class: MeshPart
+children: 2

@@ -1,0 +1,3 @@
+name: bolt
+class: Motor6D
+children: 0

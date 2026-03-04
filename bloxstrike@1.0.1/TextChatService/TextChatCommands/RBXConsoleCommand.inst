@@ -1,0 +1,3 @@
+name: RBXConsoleCommand
+class: TextChatCommand
+children: 0

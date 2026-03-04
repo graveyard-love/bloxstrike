@@ -1,0 +1,3 @@
+name: RBXVersionCommand
+class: TextChatCommand
+children: 0

@@ -1,0 +1,3 @@
+name: LowerTorso
+class: MeshPart
+children: 10

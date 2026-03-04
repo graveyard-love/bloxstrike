@@ -1,0 +1,3 @@
+name: AllDead
+class: TextChannel
+children: 10

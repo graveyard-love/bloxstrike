@@ -1,0 +1,3 @@
+name: MuzzlePart
+class: Motor6D
+children: 0

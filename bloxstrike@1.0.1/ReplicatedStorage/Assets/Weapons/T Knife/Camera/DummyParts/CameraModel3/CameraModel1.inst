@@ -1,0 +1,3 @@
+name: CameraModel1
+class: Motor6D
+children: 0

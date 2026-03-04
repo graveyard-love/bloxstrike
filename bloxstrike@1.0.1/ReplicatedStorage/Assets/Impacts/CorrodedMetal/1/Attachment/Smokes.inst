@@ -1,0 +1,3 @@
+name: Smokes
+class: ParticleEmitter
+children: 0

@@ -1,0 +1,3 @@
+name: Mesh
+class: SpecialMesh
+children: 1

@@ -1,0 +1,3 @@
+name: FakeMag
+class: MeshPart
+children: 3
