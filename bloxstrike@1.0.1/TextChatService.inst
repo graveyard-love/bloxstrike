@@ -1,0 +1,3 @@
+name: TextChatService
+class: TextChatService
+children: 10

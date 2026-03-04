@@ -1,0 +1,3 @@
+name: PlayerHydrationService
+class: PlayerHydrationService
+children: 0

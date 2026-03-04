@@ -1,0 +1,3 @@
+name: RecommendationService
+class: RecommendationService
+children: 0

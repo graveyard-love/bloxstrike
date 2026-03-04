@@ -1,0 +1,3 @@
+name: PermissionsService
+class: PermissionsService
+children: 0

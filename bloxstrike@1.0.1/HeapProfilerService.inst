@@ -1,0 +1,3 @@
+name: HeapProfilerService
+class: HeapProfilerService
+children: 0

@@ -1,0 +1,3 @@
+name: BrowserService
+class: BrowserService
+children: 0

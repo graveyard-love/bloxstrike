@@ -1,0 +1,3 @@
+name: DefaultAvatarRules
+class: AvatarRules
+children: 5

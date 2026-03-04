@@ -1,0 +1,3 @@
+name: TelemetryService
+class: TelemetryService
+children: 0

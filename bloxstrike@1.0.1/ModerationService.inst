@@ -1,0 +1,3 @@
+name: ModerationService
+class: ModerationService
+children: 0

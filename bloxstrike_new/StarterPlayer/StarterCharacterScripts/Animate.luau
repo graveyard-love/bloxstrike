@@ -1,2 +1,0 @@
--- game.StarterPlayer.StarterCharacterScripts.Animate
-

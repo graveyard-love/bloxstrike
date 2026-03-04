@@ -1,0 +1,3 @@
+name: AppLifecycleObserverService
+class: AppLifecycleObserverService
+children: 0

@@ -1,0 +1,3 @@
+name: ControllerService
+class: ControllerService
+children: 1

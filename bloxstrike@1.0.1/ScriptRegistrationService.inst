@@ -1,0 +1,3 @@
+name: ScriptRegistrationService
+class: ScriptRegistrationService
+children: 0

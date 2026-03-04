@@ -1,0 +1,3 @@
+name: GenericChallengeService
+class: GenericChallengeService
+children: 0

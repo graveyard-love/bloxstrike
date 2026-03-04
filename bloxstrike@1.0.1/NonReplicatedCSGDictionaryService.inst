@@ -1,0 +1,3 @@
+name: NonReplicatedCSGDictionaryService
+class: NonReplicatedCSGDictionaryService
+children: 0

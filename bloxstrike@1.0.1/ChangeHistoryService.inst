@@ -1,0 +1,3 @@
+name: ChangeHistoryService
+class: ChangeHistoryService
+children: 0

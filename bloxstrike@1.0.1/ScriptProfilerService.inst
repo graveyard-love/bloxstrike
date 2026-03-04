@@ -1,0 +1,3 @@
+name: ScriptProfilerService
+class: ScriptProfilerService
+children: 0
