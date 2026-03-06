@@ -7,3 +7,5 @@
   - Each folder contains player Characters.
 
 Can be used for team checks.
+
+- Can also just check playerinstance attributes :flushed:
